@@ -1,0 +1,25 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Rock Paper Scissors</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+  <style>
+    button { margin: 5px; padding: 10px 20px; font-size: 16px; }
+    #result, #score { margin-top: 20px; font-size: 18px; }
+  </style>
+</head>
+<body>
+  <h1>Rock Paper Scissors</h1>
+  <button onclick="playRound('rock')">🪨 Rock</button>
+  <button onclick="playRound('paper')">📄 Paper</button>
+  <button onclick="playRound('scissors')">✂️ Scissors</button>
+
+  <div id="result"></div>
+  <div id="score"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
