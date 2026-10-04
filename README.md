@@ -8,7 +8,7 @@ A simple interactive Rock Paper Scissors game built using HTML, CSS, and JavaScr
 
 ## 🚀 Live Demo
 
-[Play the Game](https://rock-paper-scissors-game-90ywkl8kh-prasanna-12fa.vercel.app/)
+[Play the Game](https://rock-paper-scissors-game-mcebdym4v-prasanna-12fa.vercel.app)
 
 ## 🛠️ Technologies
 
